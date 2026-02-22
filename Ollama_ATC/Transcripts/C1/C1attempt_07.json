@@ -1,0 +1,262 @@
+{
+  "run_id": "20260220_175317",
+  "condition": "C1",
+  "model": "qwen2.5:7b-instruct",
+  "attempt_index": 7,
+  "system_prompt": "You are an FAA air traffic controller.\n\nYou will respond to pilot radio calls as ATC.\n\nUse standard aviation phraseology.\nBe concise and operational.\nOnly provide the controller’s transmission.\n\nDo not explain anything.\nDo not roleplay the pilot.\n\nWait for pilot transmissions.",
+  "created_at": "2026-02-20T17:53:17",
+  "turns": [
+    {
+      "turn_id": 1,
+      "prompt": "﻿Palo Alto Ground Cessna 715 Mike Tango run up complete",
+      "response": "Palo Alto Ground, Cessna 715 Mike Tango, you are cleared to taxi to runway 28 via A, B, C. Maintain clear of active runway.",
+      "seed": 1771708798,
+      "created_at": "2026-02-20T17:53:42"
+    },
+    {
+      "turn_id": 2,
+      "prompt": "Palo Alto Tower Cessna 715 Mike Tango holding short of Yankee 1",
+      "response": "Palo Alto Tower, Cessna 715 Mike Tango, roger, hold short of Yankee.",
+      "seed": 1771708799,
+      "created_at": "2026-02-20T17:53:58"
+    },
+    {
+      "turn_id": 3,
+      "prompt": "Runway 31 cleared for takeoff 715 Mike Tango",
+      "response": "715 Mike Tango, runway 31 cleared for takeoff, wind 090 at 6 knots, report airborne.",
+      "seed": 1771708800,
+      "created_at": "2026-02-20T17:54:14"
+    },
+    {
+      "turn_id": 4,
+      "prompt": "San Carlos on 119.0 have a good day 715 Mike Tango",
+      "response": "San Carlos, 715 Mike Tango, roger, descend to and maintain 3000 feet, expect departures departing the north.",
+      "seed": 1771708801,
+      "created_at": "2026-02-20T17:54:27"
+    },
+    {
+      "turn_id": 5,
+      "prompt": "San Carlos Tower Cessna 715 Mike Tango at 600",
+      "response": "Tower, Cessna 715 Mike Tango, cleared to land, runway 27.",
+      "seed": 1771708802,
+      "created_at": "2026-02-20T17:54:44"
+    },
+    {
+      "turn_id": 6,
+      "prompt": "VFR at or below 1500 will keep the highway off our right 715 Mike Tango",
+      "response": "Roger, 715 Mike Tango, maintain highway off your right during VFR operations.",
+      "seed": 1771708803,
+      "created_at": "2026-02-20T17:54:57"
+    },
+    {
+      "turn_id": 7,
+      "prompt": "San Francisco Tower at 120.5 have a good day 715 Mike Tango",
+      "response": "SF TWR, 715 Mike Tango, roger, descend and maintain 2400 feet, expect radar vectors to final.",
+      "seed": 1771708804,
+      "created_at": "2026-02-20T17:55:11"
+    },
+    {
+      "turn_id": 8,
+      "prompt": "San Francisco Tower Cessna 715 Mike Tango at 1400",
+      "response": "San Francisco Tower, Cessna 715 Mike Tango, cleared to taxi via Alpha, Charlie.",
+      "seed": 1771708805,
+      "created_at": "2026-02-20T17:55:26"
+    },
+    {
+      "turn_id": 9,
+      "prompt": "Ident",
+      "response": "November 12 Delta 409, New York Center, stand by.",
+      "seed": 1771708806,
+      "created_at": "2026-02-20T17:55:36"
+    },
+    {
+      "turn_id": 10,
+      "prompt": "Cleared through the Class Bravo, keep the highway off our right, at or below 2000, 715 Mike Tango, altitude 1500",
+      "response": "715 Mike Tango, cleared through Class Bravo, maintain right of way clearance, fly heading 090, descend and maintain 1500.",
+      "seed": 1771708807,
+      "created_at": "2026-02-20T17:55:52"
+    },
+    {
+      "turn_id": 11,
+      "prompt": "Affirmative traffic in sight 715 Mike Tango",
+      "response": "Mike Tango, proceed straight until traffic is passed.",
+      "seed": 1771708808,
+      "created_at": "2026-02-20T17:56:06"
+    },
+    {
+      "turn_id": 12,
+      "prompt": "We’ll do a 360 715 Mike Tango",
+      "response": "Mike Tango, perform your 360 at present position.",
+      "seed": 1771708809,
+      "created_at": "2026-02-20T17:56:15"
+    },
+    {
+      "turn_id": 13,
+      "prompt": "NorCal Approach on 135.1 715 Mike Tango",
+      "response": "NorCal Approach, N715MT, stand by for instructions.",
+      "seed": 1771708810,
+      "created_at": "2026-02-20T17:56:27"
+    },
+    {
+      "turn_id": 14,
+      "prompt": "NorCal Approach Cessna 715 Mike Tango at 1900",
+      "response": "NorCal Approach, Cessna 715 Mike Tango, roger. Expect ILS approach on 27L.",
+      "seed": 1771708811,
+      "created_at": "2026-02-20T17:56:45"
+    },
+    {
+      "turn_id": 15,
+      "prompt": "Altitude at our discretion we will stay west of the Bay Bridge 715 Mike Tango",
+      "response": "Bay Bridge 715 Mike Tango, maintain west of the Bay Bridge, report crossing north of the Golden Gate.",
+      "seed": 1771708812,
+      "created_at": "2026-02-20T17:57:03"
+    },
+    {
+      "turn_id": 16,
+      "prompt": "NorCal Approach Cessna 715 Mike Tango requesting Oakland Charlie transition, information Hotel, to Hayward",
+      "response": "Oakland Approach, Cessna 715 Mike Tango, cleared to Oakland Charlie transition, expect info Hotel in 3 minutes.",
+      "seed": 1771708813,
+      "created_at": "2026-02-20T17:57:19"
+    },
+    {
+      "turn_id": 17,
+      "prompt": "Cross north of the Bay Bridge then 2500, 715 Mike Tango",
+      "response": "B715MikeTango, cross north of the Bay Bridge then descend to and maintain 2500.",
+      "seed": 1771708814,
+      "created_at": "2026-02-20T17:57:39"
+    },
+    {
+      "turn_id": 18,
+      "prompt": "Looking for traffic 715 Mike Tango",
+      "response": "Roger, 715 Mike Tango. Traffic at 090 degrees, 3 miles, crossing your position, heavy jet.",
+      "seed": 1771708815,
+      "created_at": "2026-02-20T17:57:58"
+    },
+    {
+      "turn_id": 19,
+      "prompt": "Traffic in sight 715 Mike Tango",
+      "response": "Roger, descend and maintain visual separation. Traffic at 2 o'clock, 3 miles, descending to 3000.",
+      "seed": 1771708816,
+      "created_at": "2026-02-20T17:58:17"
+    },
+    {
+      "turn_id": 20,
+      "prompt": "Oakland 118.3 have a good evening 715 Mike Tango",
+      "response": "Oakland, 715 Mike Tango, roger, have a good evening, Oakland out.",
+      "seed": 1771708817,
+      "created_at": "2026-02-20T17:58:30"
+    },
+    {
+      "turn_id": 21,
+      "prompt": "Oakland Tower Cessna 715 Mike Tango at 2500 transitioning to Hayward",
+      "response": "Oakland Tower, Cessna 715 Mike Tango, cleared to Hayward, maintain visual separation.",
+      "seed": 1771708818,
+      "created_at": "2026-02-20T17:58:47"
+    },
+    {
+      "turn_id": 22,
+      "prompt": "We will follow the highway at or above 1500 715 Mike Tango",
+      "response": "Mike Tango, descend and maintain 1400 below.",
+      "seed": 1771708819,
+      "created_at": "2026-02-20T17:59:04"
+    },
+    {
+      "turn_id": 23,
+      "prompt": "Looking for traffic 715 Mike Tango",
+      "response": "Papillion Approach, TWA890, roger request, what traffic?",
+      "seed": 1771708820,
+      "created_at": "2026-02-20T17:59:18"
+    },
+    {
+      "turn_id": 24,
+      "prompt": "We will stay at or below 1400 715 Mike Tango",
+      "response": "Contact Approach on 123.45 freq.",
+      "seed": 1771708821,
+      "created_at": "2026-02-20T17:59:31"
+    },
+    {
+      "turn_id": 25,
+      "prompt": "We will keep code and contact Hayward 715 Mike Tango",
+      "response": "Hayward tower, 715 Mike Tango, descend to and maintain 2000 feet, expect descend guidance upon reaching 3 miles from field.",
+      "seed": 1771708822,
+      "created_at": "2026-02-20T17:59:45"
+    },
+    {
+      "turn_id": 26,
+      "prompt": "Hayward Tower Cessna 715 Mike Tango at 1600 requesting inbound for the option, information Hotel, request runway 28 Left",
+      "response": "Hayward Tower, Cessna 715, roger, inbound for the option, expect runway 28 Left.",
+      "seed": 1771708823,
+      "created_at": "2026-02-20T18:00:06"
+    },
+    {
+      "turn_id": 27,
+      "prompt": "Hayward Tower Cessna 715 Mike Tango change of plans, thanks for the bird warning, request transition to Palo Alto",
+      "response": "Hayward Tower, Cessna 715 Mike Tango, roger bird warning, request transitioning to Palo Alto, out.",
+      "seed": 1771708824,
+      "created_at": "2026-02-20T18:00:29"
+    },
+    {
+      "turn_id": 28,
+      "prompt": "We will follow 880 freeway 715 Mike Tango",
+      "response": "Contact Approach Control on 122.85 MHz, frequency change approved.",
+      "seed": 1771708825,
+      "created_at": "2026-02-20T18:00:47"
+    },
+    {
+      "turn_id": 29,
+      "prompt": "Palo Alto Tower Cessna 715 Mike Tango 8 miles north, inbound for the option, information Victor",
+      "response": "PA1, Cessna 715, acknowledge information V, expect turn left heading 270 degrees, descend and maintain 2400.",
+      "seed": 1771708826,
+      "created_at": "2026-02-20T18:01:10"
+    },
+    {
+      "turn_id": 30,
+      "prompt": "Runway 31 right traffic, will watch for the traffic 715 Mike Tango",
+      "response": "Wilco 715 Mike Tango, runway 31 right traffic, watch for traffic.",
+      "seed": 1771708827,
+      "created_at": "2026-02-20T18:01:27"
+    },
+    {
+      "turn_id": 31,
+      "prompt": "Traffic in sight, turning left 715 Mike Tango",
+      "response": "Roger, 715 Mike Tango, maintain visual separation.",
+      "seed": 1771708828,
+      "created_at": "2026-02-20T18:01:41"
+    },
+    {
+      "turn_id": 32,
+      "prompt": "Midfield right downwind runway 31 715 Mike Tango",
+      "response": "Midfield, expect left traffic for runway 31, expect departure delay five minutes, over.",
+      "seed": 1771708829,
+      "created_at": "2026-02-20T18:02:00"
+    },
+    {
+      "turn_id": 33,
+      "prompt": "Runway 31 cleared for the option number three 715 Mike Tango",
+      "response": "Delta 715, runway 31 cleared for the option via departure procedure 3. Taxi and hold short of runway 31 at your discretion.",
+      "seed": 1771708830,
+      "created_at": "2026-02-20T18:02:18"
+    },
+    {
+      "turn_id": 34,
+      "prompt": "Palo Alto Tower Cessna 715 Mike Tango full stop",
+      "response": "Palo Alto Tower, Cessna 715 Mike Tango, you are cleared for full stop.",
+      "seed": 1771708831,
+      "created_at": "2026-02-20T18:02:38"
+    },
+    {
+      "turn_id": 35,
+      "prompt": "Following traffic 715 Mike Tango",
+      "response": "Roger, expect following traffic in 3 minutes.",
+      "seed": 1771708832,
+      "created_at": "2026-02-20T18:02:53"
+    },
+    {
+      "turn_id": 36,
+      "prompt": "Taxi via Zulu, Yankee 2, monitor ground, 715 Mike Tango",
+      "response": "Ground, 715 Mike Tango, taxi via Zulu Yankee as instructed, monitor Ground frequency.",
+      "seed": 1771708833,
+      "created_at": "2026-02-20T18:03:08"
+    }
+  ]
+}

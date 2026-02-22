@@ -1,0 +1,262 @@
+{
+  "run_id": null,
+  "condition": "C0",
+  "model": null,
+  "attempt_index": 0,
+  "system_prompt": null,
+  "created_at": null,
+  "turns": [
+    {
+      "turn_id": 1,
+      "prompt": "﻿Palo Alto Ground Cessna 715 Mike Tango run up complete",
+      "response": "5 Mike Tango hold short of Yankee 1 and contact tower good day",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 2,
+      "prompt": "Palo Alto Tower Cessna 715 Mike Tango holding short of Yankee 1",
+      "response": "Palo alto tower information victor now current wind 330 at one five altimeter two niner niner two\nrunway 31 in use use caution for increase bird activity full length over runway\nCessna 715 Mike Tango Palo Alto tower runway 31 cleared for takeoff wind 330 at one five",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 3,
+      "prompt": "Runway 31 cleared for takeoff 715 Mike Tango",
+      "response": "Cessna 5 Mike Tango contact San Carlos tower at 119.0",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 4,
+      "prompt": "San Carlos on 119.0 have a good day 715 Mike Tango",
+      "response": "",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 5,
+      "prompt": "San Carlos Tower Cessna 715 Mike Tango at 600",
+      "response": "715 Mike Tango San Carlos Tower intercept and follow 101 keep it off to your right during your\ntransition maintain VFR conditions at or below 1500 San Carlos altimeter is two niner niner two",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 6,
+      "prompt": "VFR at or below 1500 will keep the highway off our right 715 Mike Tango",
+      "response": "Cessna 715 Mike Tango, remain outside of Bravo to receive authorization contact San\nFrancisco tower 120.5",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 7,
+      "prompt": "San Francisco Tower at 120.5 have a good day 715 Mike Tango",
+      "response": "",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 8,
+      "prompt": "San Francisco Tower Cessna 715 Mike Tango at 1400",
+      "response": "Cessna 715 Mike Tango San Francisco tower ident",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 9,
+      "prompt": "Ident",
+      "response": "Cessna 5 Mike Tango radar contact about northwest San Carlos airport, clears through the\nBravo airspace keep the 101 off the right side maintain VFR at or below 2000 while in the Bravo.\nSan francisco altimeter two niner niner three, say altitude",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 10,
+      "prompt": "Cleared through the Class Bravo, keep the highway off our right, at or below 2000, 715 Mike Tango, altitude 1500",
+      "response": "Thank you\n715 Mike Tango traffic departing San Francisco westbound I have the airbus [ ] report the traffic\nin sight\n715 Mike Tango did you say you have that traffic on the runway departing westbound in sight",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 11,
+      "prompt": "Affirmative traffic in sight 715 Mike Tango",
+      "response": "715 Mike Tango pass behind that traffic caution wake turbulence and resume your transition if\nyou want to do a 360 there that is approved to get the space",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 12,
+      "prompt": "We’ll do a 360 715 Mike Tango",
+      "response": "715 Mike Tango leaving Bravo [ ] contact approach at 135.1",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 13,
+      "prompt": "NorCal Approach on 135.1 715 Mike Tango",
+      "response": "",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 14,
+      "prompt": "NorCal Approach Cessna 715 Mike Tango at 1900",
+      "response": "Cessna 715 Mike Tango norcal depart traffic\nCessna 715 Mike Tango you have exited class Bravo airspace altitude your discretion remain\nnorth and west of the bay bridge",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 15,
+      "prompt": "Altitude at our discretion we will stay west of the Bay Bridge 715 Mike Tango",
+      "response": "",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 16,
+      "prompt": "NorCal Approach Cessna 715 Mike Tango requesting Oakland Charlie transition, information Hotel, to Hayward",
+      "response": "Cessna 5 Mike Tango cross north of the bay bridge [ ] and then over the Coliseum at 2500",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 17,
+      "prompt": "Cross north of the Bay Bridge then 2500, 715 Mike Tango",
+      "response": "Cessna 5 Mike Tango traffic one o clock one mile currently north westbound in-bound for the\nbay tour 1800 Cessna",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 18,
+      "prompt": "Looking for traffic 715 Mike Tango",
+      "response": "",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 19,
+      "prompt": "Traffic in sight 715 Mike Tango",
+      "response": "November 5 Mike Tango roger contact oakland tower 118.3",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 20,
+      "prompt": "Oakland 118.3 have a good evening 715 Mike Tango",
+      "response": "",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 21,
+      "prompt": "Oakland Tower Cessna 715 Mike Tango at 2500 transitioning to Hayward",
+      "response": "November 715 Mike Tango oakland tower follow the 880 freeway southeast bound the oakland\naltimeter is two niner niner five and for now maintain VFR at or above 1500 for traffic",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 22,
+      "prompt": "We will follow the highway at or above 1500 715 Mike Tango",
+      "response": "715 Mike Tango traffic twelve o clock in one mile southwest bound 600 helicopter",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 23,
+      "prompt": "Looking for traffic 715 Mike Tango",
+      "response": "November 5 Mike Tango traffic no factor VFR decent to at or below 1400 at your discretion",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 24,
+      "prompt": "We will stay at or below 1400 715 Mike Tango",
+      "response": "November 5 Mike Tango radar services terminated keep the code contact Hayward tower have\na good day",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 25,
+      "prompt": "We will keep code and contact Hayward 715 Mike Tango",
+      "response": "",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 26,
+      "prompt": "Hayward Tower Cessna 715 Mike Tango at 1600 requesting inbound for the option, information Hotel, request runway 28 Left",
+      "response": "Cessna 715 Mike Tango Hayward tower again I would not recommend any pattern work at the\nmoment there are multiple flocks of birds on both runways",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 27,
+      "prompt": "Hayward Tower Cessna 715 Mike Tango change of plans, thanks for the bird warning, request transition to Palo Alto",
+      "response": "Cessna 715 Mike Tango roger proceed as requested",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 28,
+      "prompt": "We will follow 880 freeway 715 Mike Tango",
+      "response": "Cessna 5 Mike Tango you can proceed direct towards palo alto there's no traffic on final in\noakland\nCessna 5 Mike Tango contact palo alto tower",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 29,
+      "prompt": "Palo Alto Tower Cessna 715 Mike Tango 8 miles north, inbound for the option, information Victor",
+      "response": "Cessna 715 Mike Tango Palo alto tower make right traffic runway 31 traffic at your ten o'clock in\nabout four miles southwest bound altitude indicating 1500 type unknown if able maintain at or\nbelow 1000",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 30,
+      "prompt": "Runway 31 right traffic, will watch for the traffic 715 Mike Tango",
+      "response": "Cessna 5 Mike Tango in order to pass behind that traffic turn left 15 degrees that traffic is now\ntwelve o clock two miles still southwest bound",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 31,
+      "prompt": "Traffic in sight, turning left 715 Mike Tango",
+      "response": "Roger passing trail of that aircraft enter midfield right downwind runway 31",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 32,
+      "prompt": "Midfield right downwind runway 31 715 Mike Tango",
+      "response": "Cessna 715 Mike Tango you will be number three following a red citabria ahead of you at your\ntwelve o clock two miles ahead of you setting you at a 1500 number three runway 31 cleared for\nthe option",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 33,
+      "prompt": "Runway 31 cleared for the option number three 715 Mike Tango",
+      "response": "",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 34,
+      "prompt": "Palo Alto Tower Cessna 715 Mike Tango full stop",
+      "response": "Cessna 715 mike tango roger\nMike tango traffic to follow is now on the right base turn altitude indicating 500",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 35,
+      "prompt": "Following traffic 715 Mike Tango",
+      "response": "Cessna 5 Mike Tango taxi parking zulu yankee 2 and monitor ground good night",
+      "seed": null,
+      "created_at": null
+    },
+    {
+      "turn_id": 36,
+      "prompt": "Taxi via Zulu, Yankee 2, monitor ground, 715 Mike Tango",
+      "response": "",
+      "seed": null,
+      "created_at": null
+    }
+  ]
+}
